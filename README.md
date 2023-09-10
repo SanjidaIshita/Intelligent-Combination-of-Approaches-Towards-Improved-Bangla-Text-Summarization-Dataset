@@ -26,4 +26,16 @@ Those are:
 The tool is a time-saving way to generate the summary more accurately. Here home interface is shown up and seeing how many summaries have remained. Behind the reason for the white and black color of the box is remained summaries. If there are no remaining summaries, all boxes will be black-colored. There shows some history of generating a summary. If there has any recently added summary then it shows the date, time, document number, dataset number, category, and summary number. There has also shown the calculation of the total passage number, summary number, and remaining summary.
 ![](/images/tool1.PNG)
 
+After clicking any dataset button then this page will be shown up. The box color will be white if there has any remained summary otherwise the color will be black. If we want to go back to our home interface, there has a back button for that.
+![](/images/tool2.PNG)
+
+This is the interface where the source document has shown and we have to select most main conceptual lines to make the summary. At top of the page, there have dataset number, category name, summary number, and document number. In the next line, there is the total number of lines of the document and shows how many lines 40% contains. Next comes the  picked line no at the time of clicking tick in the checkbox. Then at the bottom, there have back and submit button.
+![](/images/tool3.PNG)
+
+After clicking submit button the summary will be added successfully. For this, there will be shown up a "Summary Added Successfully" message box.
+![](/images/tool4.PNG)
+
+If more or less than 40% lines are picked then the error box will be shown up and contains "Forty percent not marked" message.
+![](/images/tool5.PNG)
+
 
