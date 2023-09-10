@@ -23,4 +23,9 @@ Those are:
 8. Sports
 
 #Human generated summaries by using tools(python tkInter interface)
+The tool is a time-saving way to generate the summary more accurately. Here home interface is shown up and seeing how many summaries have remained. Behind the reason for the white and black color of the box is remained summaries. If there are no remaining summaries, all boxes will be black-colored. There shows some history of
+generating a summary. If there has any recently added summary then it shows the date,
+time, document number, dataset number, category, and summary number. There has also
+shown the calculation of the total passage number, summary number, and remaining summary.
+![](/images/tool1.PNG)
 
