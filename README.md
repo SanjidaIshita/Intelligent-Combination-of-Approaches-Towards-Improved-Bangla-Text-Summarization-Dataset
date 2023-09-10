@@ -39,16 +39,12 @@ If more or less than 40% lines are picked then the error box will be shown up an
 ![](/images/tool5.PNG)
 
 ### Author's Info
-   Alam Khan
-- **Email: [alamkhaan1997@gmail.com]**
+   Alam Khan **Email: [alamkhaan1997@gmail.com]**
 
-  Sanjida Akter Ishita
-- **Email: [sanjidaakterishita@gmail.com]**
+  Sanjida Akter Ishita **Email: [sanjidaakterishita@gmail.com]**
 
-  Fariha Zaman
-- **Email: [fariha.aust.99@gmail.com]**
+  Fariha Zaman **Email: [fariha.aust.99@gmail.com]**
 
-  Ashiqul Islam Ashik
-- **Email: [ashiqulislam170204070@gmail.com]**
+  Ashiqul Islam Ashik **Email: [ashiqulislam170204070@gmail.com]**
 
 
