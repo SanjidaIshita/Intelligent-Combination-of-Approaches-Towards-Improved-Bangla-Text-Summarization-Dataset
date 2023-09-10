@@ -38,4 +38,7 @@ After clicking submit button the summary will be added successfully. For this, t
 If more or less than 40% lines are picked then the error box will be shown up and contains "Forty percent not marked" message.
 ![](/images/tool5.PNG)
 
+### Author's Info
+- **Email: [Alam Khan](alamkhaan1997@gmail.com)**
+
 
