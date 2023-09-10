@@ -42,13 +42,13 @@ If more or less than 40% lines are picked then the error box will be shown up an
    Alam Khan
 - **Email: [alamkhaan1997@gmail.com]**
 
--  Sanjida Akter Ishita
+  Sanjida Akter Ishita
 - **Email: [sanjidaakterishita@gmail.com]**
 
--  Fariha Zaman
+  Fariha Zaman
 - **Email: [fariha.aust.99@gmail.com]**
 
--  Ashiqul Islam Ashik
+  Ashiqul Islam Ashik
 - **Email: [ashiqulislam170204070@gmail.com]**
 
 
